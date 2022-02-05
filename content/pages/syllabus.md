@@ -39,11 +39,48 @@ Students will give a brief oral report on the progress of their research during 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Research Paper | 50 |
-| Oral Presentation | 15 |
-| Participation (including response papers) | 35 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation (including response papers)
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Things to Remember
 ------------------
@@ -59,20 +96,201 @@ Grading will be based on the three written assignments, the oral presentation, a
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Hunting | &nbsp; |
-| 3 | Domestication and Breeding | &nbsp; |
-| 4 | Meat (or not) | &nbsp; |
-| 5 | Pets | Research paper proposal due |
-| 6 | Animal Experimentation | Guest speaker: Dr. Barbara O'Pray, chair MIT ACUC |
-| 7 | Animal Protection | &nbsp; |
-| 8 | No Class | Individual Conferences |
-| 9 | Animals and Invasion | Research paper annotated bibliography due Oral progress report due |
-| 10 | Animals and Infection | &nbsp; |
-| 11 | Live Animals on Display | &nbsp; |
-| 12 | Dead Animals on Display | Field trip to Harvard Museum of Comparative Zoology |
-| 13 | Studying Animals: Field Observation and Ethology | &nbsp; |
-| 14 | Animals and Imagination | &nbsp; |
-| 15 | Final Presentations | Paper presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Hunting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Domestication and Breeding
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Meat (or not)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pets
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Animal Experimentation
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Dr. Barbara O'Pray, chair MIT ACUC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Animal Protection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Conferences
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Animals and Invasion
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper annotated bibliography due Oral progress report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Animals and Infection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Live Animals on Display
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dead Animals on Display
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to Harvard Museum of Comparative Zoology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Studying Animals: Field Observation and Ethology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Animals and Imagination
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Paper presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
