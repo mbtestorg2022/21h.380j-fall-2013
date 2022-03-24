@@ -67,7 +67,7 @@ Carruthers, Jane. "'[Wilding the Farm or Farming the Wild?' The Evolution of Sci
 
 Cioc, Mark. "Introduction," Chapter 1, and Appendix A in _The Game of Conservation: International Treaties to Protect the World's Migratory Animals._ Ohio University Press, 2009. ISBN: 9780821418673.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Colonial Animal Protection Laws. (PDF - 1.5 MB)]({{< baseurl >}}/resources/mit21h_380f13_laws)
+[Colonial Animal Protection Laws. (PDF - 1.5 MB)]({{< baseurl >}}/resources/mit21h_380f13_laws)
 
 
 {{< tdclose >}}
@@ -87,7 +87,7 @@ Domestication and Breeding
 
 Coppinger, Raymond, and Lorna Coppinger. Chapter 1 in _Dogs: A New Understanding of Canine Origin, Behavior, & Evolution_. University of Chicago Press, 2002. ISBN: 9780226115634.
 
-Orlans, Barbara. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries." (PDF)](https://www.academia.edu/14032108/Turbo_Cows_Producing_a_Competitive_Animal_in_the_Nineteenth_and_Early_Twentieth_Century) _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
+Orlans, Barbara. ["Turbo-Cows: Producing a Competitive Animal in the Nineteenth and Early Twentieth Centuries." (PDF)](https://www.academia.edu/14032108/Turbo_Cows_Producing_a_Competitive_Animal_in_the_Nineteenth_and_Early_Twentieth_Century) _Industrializing Organisms: Introducing Evolutionary History: Routledge_, 2003.
 
 Levy, Ariel. "[Living-Room Leopards](http://www.newyorker.com/reporting/2013/05/06/130506fa_fact_levy)." _The New Yorker_, May 6, 2013.
 
